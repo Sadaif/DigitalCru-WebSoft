@@ -1,0 +1,442 @@
+section.sec1 
+{
+  
+ width: 100%;
+ height: 130vh;
+ box-sizing: border-box;
+ background: url('a.jpg');
+ background-size: cover;
+ 
+}
+ 
+.jumbotron {
+    background-color: #f4511e;
+    color: #fff;
+    padding: 100px 25px;
+}
+.container-fluid {
+    padding: 60px 50px;
+}
+.bg-grey {
+    background-color: #f6f6f6;
+}
+.logo-small {
+    color: black;
+    font-size: 50px;
+}
+.logo-green {
+    color: rgb(0, 255, 0);
+    font-size: 50px;
+}
+.logo-earth {
+    color: green;
+    font-size: 50px;
+}
+.logo-brown {
+    color: #8e2525;
+    font-size: 50px;
+}
+.logo-sky {
+    color: rgb(17, 188, 255);
+    font-size: 50px;
+}
+.logo-large {
+    color: rgb(255, 41, 41);
+    font-size: 50px;
+}
+.logo {
+    color: rgb(17, 188, 255);
+    font-size: 200px;
+    
+}
+.logo-e {
+    color: green;
+    font-size: 200px;
+}
+.thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+}
+.thumbnail img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 10px;
+}
+.carousel-control.right, .carousel-control.left {
+    background-image: none;
+    color: #f4511e;
+}
+.carousel-indicators li {
+    border-color: #f4511e;
+}
+.carousel-indicators li.active {
+    background-color: #f4511e;
+}
+.item h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    font-weight: 400;
+    font-style: italic;
+    margin: 70px 0;
+}
+.item span {
+    font-style: normal;
+}
+.panel {
+    border: 1px solid  rgb(32, 255, 32); 
+    border-radius:0 !important;
+    transition: box-shadow 0.5s;
+}
+.panel:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+.panel-footer .btn:hover {
+    border: 1px solid rgb(32, 255, 32);
+    background-color: #fff !important;
+    color: rgb(32, 255, 32);
+}
+.panel-heading {
+    color: #fff !important;
+    background-color: rgb(32, 255, 32) !important;
+    padding: 25px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.panel-footer {
+    background-color: white !important;
+}
+.panel-footer h3 {
+    font-size: 32px;
+}
+.panel-footer h4 {
+    color:  red;
+    font-size: 14px;
+}
+.panel-footer .btn {
+    margin: 15px 0;
+    background-color: skyblue;
+    color: #fff;
+}
+/* .navbar {
+    margin-bottom: 0;
+    background-color: #f4511e;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #f4511e !important;
+    background-color: #fff !important;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+} */
+/* footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #f4511e;
+} */
+/* @media screen and (max-width: 768px) {
+  .col-sm-4 {
+    text-align: center;
+    margin: 25px 0;
+  }
+} */
+section.sec4 
+{
+  
+ width: 100%;
+ height: 130vh;
+ box-sizing: border-box;
+ background: url('about.jpg');
+ background-size: cover;
+ 
+}
+section.sec
+{
+  
+ width: 100%;
+ height: 130vh;
+ box-sizing: border-box;
+ background: url('2nd.jpg');
+ background-size: cover;
+ 
+}
+section.third
+{
+  
+ width: 100%;
+ height: 130vh;
+ box-sizing: border-box;
+ background: url('3rd.jpg');
+ background-size: cover;
+ 
+}
+section.sec5
+{
+  
+ width: 100%;
+ height: 130vh;
+ box-sizing: border-box;
+ background: url('service.jpg');
+ background-size: cover;
+ 
+}
+section.sec6
+{
+  
+ width: 100%;
+ height: 130vh;
+ box-sizing: border-box;
+ background: url('portfolio.jpg');
+ background-size: cover;
+ 
+}
+section.sec7
+{
+  
+ width: 100%;
+ height: 130vh;
+ box-sizing: border-box;
+ background: url('price.jpg');
+ background-size: cover;
+ 
+}
+img.ceo{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20%;
+}
+h1.ceo-text{
+    text-align: center;
+}
+p.ceo-text{
+    text-align: center;
+}
+/* footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: gold;
+   } */
+
+
+ #myFooter {
+	background-color: #373a48;
+	color:white;
+}
+
+#myFooter .footer-copyright{
+	background-color: #383737;
+	padding-top:3px;
+	padding-bottom:3px;
+	text-align: center;
+}
+
+#myFooter .footer-copyright p{
+	margin:10px;
+	color: #ccc;
+}
+
+#myFooter ul{
+	list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+
+}
+
+#myFooter h5{
+	font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter a{
+	color:#d2d1d1;
+	text-decoration: none;
+}
+
+#myFooter a:hover, #myFooter a:focus{
+	text-decoration: none;
+	color:white;
+}
+
+#myFooter .myCols{
+	text-align: center;
+}
+
+#myFooter .social-networks{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 38px;
+}
+
+#myFooter .social-networks a{
+    font-size: 32px;
+    margin-right: 5px;
+    margin-left: 5px;
+    color: #f9f9f9;
+    padding: 10px;
+    transition: 0.2s;
+}
+
+#myFooter .social-networks a:hover{
+	text-decoration: none;
+
+}
+
+#myFooter .facebook:hover{
+	color:#0077e2;
+}
+
+#myFooter .google:hover{
+	color:#ef1a1a;
+}
+
+#myFooter .twitter:hover{
+	color: #00aced;
+}
+
+@media screen and (max-width: 767px){
+	#myFooter {
+		text-align: center;
+	}
+}
+ 
+
+
+/* CSS used for positioning the footers at the bottom of the page. */
+/* You can remove this. */
+
+
+html{
+	height: 100% !important;
+}
+
+body{
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    height: 100%;
+}
+
+.content{
+	flex: 1 0 auto;
+	-webkit-flex: 1 0 auto;
+	min-height: 200px;
+}
+
+#myFooter{
+	flex: 0 0 auto;
+    -webkit-flex: 0 0 auto;
+}
+
+/*  Nav bar  */
+
+
+body
+{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+nav 
+{
+  position: fixed ;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  background: rgba(0,0,0,0.6);
+  padding: 0 100px;
+  box-sizing: border-box;
+}
+nav .brand
+{
+  float: left;
+  height: 0%;
+  line-height: 70px;
+}
+nav .brand h2
+{
+  margin: 15%;
+  padding: 0%;
+  color: #fff;
+}
+nav ul
+{
+  float: right;
+  display: flex;
+  margin: 0%;
+  padding: 0;
+}
+nav ul h1{
+  text-align: right;
+}
+nav ul li
+{
+ list-style: none;
+}
+nav ul li a  
+{
+  position: relative;
+  display: block;
+  height:   0px;
+  line-height: 70px;
+  padding: 0 20px;
+  box-sizing: border-box;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: .5s;
+}
+nav ul li a:hover
+{
+  color: #262626;
+}
+nav ul li a:before
+{
+  content: '';
+  position: absolute;
+  top: 0;
+  Left: 0;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  transform-origin: right;
+  z-index: -1;
+  transform: scaleX(0);
+  transition: transform .5s;
+}
+nav ul li a:hover:before
+{
+  transform-origin: left;
+  transform: scaleX(1);
+}
+section.sec2
+{
+  padding: 100px;
+}
+
+.topnav .icon {
+  display: none;
+}
+ 
